@@ -1,3 +1,7 @@
 # Module-6
-git status
-git add [files]
+git status (красное)
+git add [files] . - добавляет файлы в stage
+git status (зеленое) - проверяем
+git commit -m "comment"  - пишемм коммит
+git log / git log --oneline
+git push [rep_link] [branch_name]
